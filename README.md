@@ -52,7 +52,7 @@ To use the Lethal Company Save Editor, follow these steps:
 3. **Open a Save File**:
 
    - In the Save Editor's main window, click on the `Open File` button. This will open a file dialog.
-   - Use the file dialog to locate and select your Lethal Company game save file. Save files are typically located in a specific folder related to the game. You can find save files
+   - Use the file dialog to locate and select your Lethal Company game save files that we found in step 1.
    - After selecting the file, click 'Open'. The application will decrypt and load the file, displaying its contents in the text area for editing.
 
 4. **Edit the Save File**:
